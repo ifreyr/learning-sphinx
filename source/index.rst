@@ -18,21 +18,21 @@ reStructureText 入门
 .. toctree::
    :maxdepth: 3
 
-   rst/段落
-   rst/标题
-   rst/行内标记
-   rst/列表
-   rst/图片
-   rst/代码块
-   rst/表格
-   rst/超链接
-   rst/引用
-   rst/脚注
-   rst/词条
-   rst/分隔符
-   rst/指令
-   rst/注释
-   rst/行块
+   rst/paragraph
+   rst/section
+   rst/inline-markup
+   rst/list
+   rst/picture
+   rst/code-block
+   rst/table
+   rst/hyperlink
+   rst/citation
+   rst/footnote
+   rst/field-list
+   rst/transition
+   rst/directive
+   rst/comment
+   rst/line-block
 
 
 
